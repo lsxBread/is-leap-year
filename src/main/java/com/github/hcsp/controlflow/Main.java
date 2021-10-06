@@ -22,5 +22,6 @@ public class Main {
         System.out.println(isLeapYear(2000));
         System.out.println(isLeapYear(1900));
         System.out.println(isLeapYear(2004));
+        System.out.println(isLeapYear(2004));
     }
 }
